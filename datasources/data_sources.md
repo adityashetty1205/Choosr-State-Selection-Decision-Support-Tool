@@ -28,6 +28,6 @@ This project brings together data from multiple publicly available sources to he
 The raw datasets above were cleaned, standardized, and merged into a single Excel workbook for use in the final dashboards.
 
 - **File**: `Project_data_files_final_dataset.xlsx`  
-- **Location**: [datasources/Project_data_files_final_dataset.xlsx](./Project_data_files_final_dataset.xlsx)
+- **Location**: [datasources/Project_data_files_final_dataset.xlsx](datasources/Project_data_files_final_dataset.xlsx)
 
 This file contains all key fields required for the Choosr dashboard, including restaurant ratings, crime rates, electricity tariffs, cost indices, and quality-of-life scores.
