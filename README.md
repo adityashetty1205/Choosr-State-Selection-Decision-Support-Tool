@@ -96,9 +96,9 @@ To build a single-platform, Excel-based dashboard tool that:
 
 ## 📷 Dashboard Previews
 
-### Landing Page
+### Landing Dashboard
 
-![Landing Dashboard](images/Landing_Dashboard.png)
+[View Landing Dashboard Screenshot](images/Landing_Dashboard.png)
 
 ### Restaurant Dashboard
 [View Restaurant Dashboard Screenshot](images/Restaurant_Dashboard.png)
