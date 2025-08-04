@@ -110,7 +110,7 @@ To build a single-platform, Excel-based dashboard tool that:
 [View Electricity Dashboard Screenshot](images/Electricity_Dashboard.png)
 
 ### Cost of Living Dashboard
-![Cost Dashboard](images/cost_dashboard.png)
+[View Cost of Living Dashboard Screenshot](images/CostofLiving_Dashboard.png)
 
 ---
 
