@@ -52,9 +52,9 @@ To build a single-platform, Excel-based dashboard tool that:
 
 | File/Folder     | Description                                                        |
 |-----------------|--------------------------------------------------------------------|
-| `/dashboard`    | Macro-enabled workbook: `Choosr_State_Dashboard.xlsm`             |
+| `/dashboard`    | Macro-enabled workbook: `Choosr_State_Selection_Dashboards.xlsm`             |
 | `/images`       | Screenshots of each dashboard for preview                         |
-| `/data`         | Supporting datasets (CSV or Excel format, optional)               |
+| `/datasources`         | Supporting datasets (CSV or Excel format)               |
 | `README.md`     | Project overview and usage guide                                   |
 
 ---
@@ -81,7 +81,7 @@ To build a single-platform, Excel-based dashboard tool that:
 
 ## 🚀 How to Use
 
-1. Download and open `Choosr_State_Dashboard.xlsm`
+1. Download and open `Choosr_State_Selection_Dashboards.xlsm`
 2. **Enable macros** when prompted
 3. Start on the **Landing Dashboard**
 4. Navigate to:
