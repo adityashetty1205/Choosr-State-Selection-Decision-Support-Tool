@@ -117,7 +117,6 @@ To build a single-platform, Excel-based dashboard tool that:
 
 **Aditya Pramod Shetty**  
 Master's in Business Analytics 
-
 Isenberg School of Management | University of Massachusetts Amherst
 
 📧 Email: adityashetty1205@gmail.com  
