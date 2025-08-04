@@ -101,7 +101,7 @@ To build a single-platform, Excel-based dashboard tool that:
 ![Landing Dashboard](images/Landing_Dashboard.png)
 
 ### Restaurant Dashboard
-![Restaurant Dashboard](images/restaurant_dashboard.png)
+[View Restaurant Dashboard Screenshot](images/Restaurant_Dashboard.png)
 
 ### Crime Dashboard
 ![Crime Dashboard](images/crime_dashboard.png)
