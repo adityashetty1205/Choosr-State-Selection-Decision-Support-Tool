@@ -104,10 +104,10 @@ To build a single-platform, Excel-based dashboard tool that:
 [View Restaurant Dashboard Screenshot](images/Restaurant_Dashboard.png)
 
 ### Crime Dashboard
-![Crime Dashboard](images/crime_dashboard.png)
+[View Crime Dashboard Screenshot](images/Crime_Dashboard.png)
 
 ### Electricity Dashboard
-![Electricity Dashboard](images/electricity_dashboard.png)
+[View Electricity Dashboard Screenshot](images/Electricity_Dashboard.png)
 
 ### Cost of Living Dashboard
 ![Cost Dashboard](images/cost_dashboard.png)
