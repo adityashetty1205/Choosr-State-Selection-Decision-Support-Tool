@@ -1,4 +1,4 @@
-# 🗺️ State Comparison Decision Support Dashboard  (Excel + VBA Dashboard)
+# 🗺️ State Comparison Decision Support Dashboard (Excel + VBA Dashboard)
 
 **Choosr** is an interactive, macro-enabled Excel application that helps users make informed decisions about where to live in the U.S. by comparing states across four key lifestyle factors: restaurant quality, crime rates, electricity costs, and overall cost of living. This all-in-one dashboard solution is built using native Excel capabilities, with advanced interactivity powered by VBA.
 
